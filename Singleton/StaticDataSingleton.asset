@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34632f355b9bc264fabd0f1b706d011f, type: 3}
+  m_Name: StaticDataSingleton
+  m_EditorClassIdentifier: 
+  keysData: {fileID: 11400000, guid: f021815d365f49748b5313916ed5c3ac, type: 2}
+  mapData: {fileID: 11400000, guid: a85e1f7c56b93b44b8cda82ef0e4fad0, type: 2}
+  obstacleData: {fileID: 11400000, guid: 0213a060cc24b0d478fcadbb64cda78c, type: 2}
+  tankData: {fileID: 11400000, guid: fb40fc76978d97f43b783ca665eb0a7e, type: 2}
+  wordData: {fileID: 11400000, guid: 8501aede8fba6a548a9b2534ba4024b5, type: 2}
+  utilityData: {fileID: 11400000, guid: 9c1d55d92dc526b46a22cfb3e660462b, type: 2}
